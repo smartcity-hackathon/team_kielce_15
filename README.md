@@ -1,6 +1,6 @@
 # team_kielce_15
 
-# <b> Pliki dodajemy na hosting z powodu z byt dużego rozmiaru folderu/plików ( Uzgodnione z Mentorem - Paweł z Białegostoku ) </b>
+# <b> Pliki dodajemy na hosting z powodu zbyt dużego rozmiaru folderu/plików ( Uzgodnione z Mentorem - Paweł z Białegostoku ) </b>
  
  # Linki do hostingów :
  
